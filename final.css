@@ -1,0 +1,39 @@
+.body{
+    background-image:url(https://yun468.github.io/WeHelp-Application/1.jpg);
+    background-size:950px;
+}
+.title{
+    background-color:LavenderBlush;
+    height: 30px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.text{
+    text-align: center;
+    font-weight: bold   
+}
+.border{
+    background-color: white;
+    border:ridge;
+    border-width:5px;
+    border-color:#cccccc;
+    margin:10px auto;
+    width:900px;    
+}
+.border-1{
+    border-bottom:solid;
+    border-width:2px
+}
+
+.padding{
+    padding: 6.5px;
+    text-indent : 2em
+}
+
+.text-indent{
+    text-indent : 2em
+}
